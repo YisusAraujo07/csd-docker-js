@@ -1,0 +1,7 @@
+{
+    "Con Javascript nos divertimos".includes("Javascript")
+    "Con Javascript nos divertimos".startsWith("Javascript")
+    "Con Javascript nos divertimos".endsWith("Javascript")
+    let s= "Scrum"
+    
+}
